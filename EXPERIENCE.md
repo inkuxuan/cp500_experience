@@ -1,3 +1,5 @@
+This document is only available in Chinese (Simplified)
+
 # 基础知识
 
 热升华再转写式打印：比起热升华转印（使用热量在卡上直接进行CMYK印刷）多出了一些步骤，首先将CMYK转印至胶片，然后再将胶片转印至卡片上。
