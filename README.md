@@ -34,6 +34,8 @@ CP500的一次转印部（色带->胶片）在胶片和色带之间进行，使�
 ![image](https://github.com/user-attachments/assets/edd42c5d-044f-452d-adea-7c4fe61e0c66)
 ![image](https://github.com/user-attachments/assets/31b4e75b-720b-42f7-bb7f-be3e5ef86974)
 ![image](https://github.com/user-attachments/assets/a2fe30e7-6413-4708-ac89-62dc03e68201)
+![image](https://github.com/user-attachments/assets/f474605c-bfaa-453a-a7c5-538b7f77649c)
+
 
 
 ## 维护菜单
